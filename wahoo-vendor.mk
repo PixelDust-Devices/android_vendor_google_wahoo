@@ -655,9 +655,7 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     TimeService \
     wahoo_gfxdrv \
-    VZWAPNLib \
     AmbientSensePrebuilt \
-    AppDirectedSMSService \
     CarrierServices \
     CarrierWifi \
     ConnMO \
