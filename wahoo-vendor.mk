@@ -667,7 +667,6 @@ PRODUCT_PACKAGES += \
     OBDM_Permissions \
     SprintDM \
     SprintHM \
-    TetheringEntitlement \
     WfcActivation \
     obdm_stub \
     CarrierSetup \
