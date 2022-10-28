@@ -667,7 +667,6 @@ PRODUCT_PACKAGES += \
     OBDM_Permissions \
     SprintDM \
     SprintHM \
-    WfcActivation \
     obdm_stub \
     CarrierSetup \
     cneapiclient \

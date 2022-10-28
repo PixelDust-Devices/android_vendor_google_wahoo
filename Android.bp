@@ -295,18 +295,6 @@ android_app_import {
 }
 
 android_app_import {
-	name: "WfcActivation",
-	owner: "google",
-	apk: "proprietary/product/priv-app/WfcActivation/WfcActivation.apk",
-	presigned: true,
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-	product_specific: true,
-}
-
-android_app_import {
 	name: "obdm_stub",
 	owner: "google",
 	apk: "proprietary/product/priv-app/obdm_stub/obdm_stub.apk",
