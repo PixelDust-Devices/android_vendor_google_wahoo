@@ -656,7 +656,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     wahoo_gfxdrv \
     AmbientSensePrebuilt \
-    DCMO \
     DMService \
     DevicePersonalizationPrebuiltPixel2 \
     DiagMon \
