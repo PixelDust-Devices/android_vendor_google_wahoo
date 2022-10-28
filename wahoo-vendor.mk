@@ -656,7 +656,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     wahoo_gfxdrv \
     AmbientSensePrebuilt \
-    CarrierServices \
     CarrierWifi \
     ConnMO \
     DCMO \
