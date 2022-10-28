@@ -668,7 +668,6 @@ PRODUCT_PACKAGES += \
     SprintDM \
     SprintHM \
     obdm_stub \
-    CarrierSetup \
     cneapiclient \
     com.google.android.camera.experimental2017 \
     com.quicinc.cne.api-V1.0-java \
